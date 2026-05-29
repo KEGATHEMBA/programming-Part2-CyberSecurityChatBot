@@ -62,7 +62,7 @@ Controls GUI events and chatbot interactions
 - privacy
 - online scams
 
-## YOUTUBE LINK
+## YOUTUBE Link
 - https://youtu.be/Y3VXhr4Jo7M
 
 
